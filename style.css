@@ -21,12 +21,12 @@
     display: block;
 }
 
-/* Hello Master Ye! If you swap the order of the following two selectors, the drop-down menu won't show up.*/
-
 .dropdown {
     position: relative;
     display: inline-block;
 }
+
+/* Hello Master Ye! If you swap the order of the following two selectors, the drop-down menu won't show up.*/
 
 .dropdown-content {
     display: none;
